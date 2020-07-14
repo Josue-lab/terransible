@@ -1,5 +1,6 @@
 aws_profile       = "linuxacademy"
 aws_region        = "us-east-1"
+localip = "0.0.0.0/0"
 db_instance_class = "db.t2.micro"
 dbname		  = "linuxacademydb"
 dbuser		  = "linuxacademy"
